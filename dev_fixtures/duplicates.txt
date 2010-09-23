@@ -1,0 +1,216 @@
+======= ('<Area: Commune of Faraba>', 4) =========
+{'fields': {'code': '<Area: Commune of Faraba>',
+            'kind': 4,
+            'location': None,
+            'name': 'Faraba',
+            'parent': 88},
+ 'model': 'simple_locations.area',
+ 'pk': 94}
+{'fields': {'code': '<Area: Commune of Faraba>',
+            'kind': 4,
+            'location': None,
+            'name': 'Faraba',
+            'parent': 224},
+ 'model': 'simple_locations.area',
+ 'pk': 240}
+======= (u'<Area: Commune of Di\xe9dougou>', 4) =========
+{'fields': {'code': u'<Area: Commune of Di\xe9dougou>',
+            'kind': 4,
+            'location': None,
+            'name': u'Di\xe9dougou',
+            'parent': 191},
+ 'model': 'simple_locations.area',
+ 'pk': 197}
+{'fields': {'code': u'<Area: Commune of Di\xe9dougou>',
+            'kind': 4,
+            'location': None,
+            'name': u'Di\xe9dougou',
+            'parent': 492},
+ 'model': 'simple_locations.area',
+ 'pk': 497}
+{'fields': {'code': u'<Area: Commune of Di\xe9dougou>',
+            'kind': 4,
+            'location': None,
+            'name': u'Di\xe9dougou',
+            'parent': 586},
+ 'model': 'simple_locations.area',
+ 'pk': 587}
+======= ('<Area: Commune of Niamana>', 4) =========
+{'fields': {'code': '<Area: Commune of Niamana>',
+            'kind': 4,
+            'location': None,
+            'name': 'Niamana',
+            'parent': 284},
+ 'model': 'simple_locations.area',
+ 'pk': 294}
+{'fields': {'code': '<Area: Commune of Niamana>',
+            'kind': 4,
+            'location': None,
+            'name': 'Niamana',
+            'parent': 468},
+ 'model': 'simple_locations.area',
+ 'pk': 481}
+======= ('<Area: Commune of Dogofry>', 4) =========
+{'fields': {'code': '<Area: Commune of Dogofry>',
+            'kind': 4,
+            'location': None,
+            'name': 'Dogofry',
+            'parent': 284},
+ 'model': 'simple_locations.area',
+ 'pk': 288}
+{'fields': {'code': '<Area: Commune of Dogofry>',
+            'kind': 4,
+            'location': None,
+            'name': 'Dogofry',
+            'parent': 455},
+ 'model': 'simple_locations.area',
+ 'pk': 457}
+======= ('<Area: Commune of Benkadi>', 4) =========
+{'fields': {'code': '<Area: Commune of Benkadi>',
+            'kind': 4,
+            'location': None,
+            'name': 'Benkadi',
+            'parent': 181},
+ 'model': 'simple_locations.area',
+ 'pk': 183}
+{'fields': {'code': '<Area: Commune of Benkadi>',
+            'kind': 4,
+            'location': None,
+            'name': 'Benkadi',
+            'parent': 191},
+ 'model': 'simple_locations.area',
+ 'pk': 193}
+{'fields': {'code': '<Area: Commune of Benkadi>',
+            'kind': 4,
+            'location': None,
+            'name': 'Benkadi',
+            'parent': 215},
+ 'model': 'simple_locations.area',
+ 'pk': 217}
+{'fields': {'code': '<Area: Commune of Benkadi>',
+            'kind': 4,
+            'location': None,
+            'name': 'Benkadi',
+            'parent': 621},
+ 'model': 'simple_locations.area',
+ 'pk': 622}
+======= ('<Area: Commune of Bougoula>', 4) =========
+{'fields': {'code': '<Area: Commune of Bougoula>',
+            'kind': 4,
+            'location': None,
+            'name': 'Bougoula',
+            'parent': 224},
+ 'model': 'simple_locations.area',
+ 'pk': 229}
+{'fields': {'code': '<Area: Commune of Bougoula>',
+            'kind': 4,
+            'location': None,
+            'name': 'Bougoula',
+            'parent': 573},
+ 'model': 'simple_locations.area',
+ 'pk': 574}
+======= ('<Area: Commune of Kapala>', 4) =========
+{'fields': {'code': '<Area: Commune of Kapala>',
+            'kind': 4,
+            'location': None,
+            'name': 'Kapala',
+            'parent': 586},
+ 'model': 'simple_locations.area',
+ 'pk': 593}
+{'fields': {'code': '<Area: Commune of Kapala>',
+            'kind': 4,
+            'location': None,
+            'name': 'Kapala',
+            'parent': 621},
+ 'model': 'simple_locations.area',
+ 'pk': 638}
+======= ('<Area: Commune of Baye>', 4) =========
+{'fields': {'code': '<Area: Commune of Baye>',
+            'kind': 4,
+            'location': None,
+            'name': 'Baye',
+            'parent': 88},
+ 'model': 'simple_locations.area',
+ 'pk': 89}
+{'fields': {'code': '<Area: Commune of Baye>',
+            'kind': 4,
+            'location': None,
+            'name': 'Baye',
+            'parent': 319},
+ 'model': 'simple_locations.area',
+ 'pk': 321}
+======= ('<Area: Commune of Koula>', 4) =========
+{'fields': {'code': '<Area: Commune of Koula>',
+            'kind': 4,
+            'location': None,
+            'name': 'Koula',
+            'parent': 274},
+ 'model': 'simple_locations.area',
+ 'pk': 277}
+{'fields': {'code': '<Area: Commune of Koula>',
+            'kind': 4,
+            'location': None,
+            'name': 'Koula',
+            'parent': 523},
+ 'model': 'simple_locations.area',
+ 'pk': 527}
+======= ('<Area: Commune of Tilemsi>', 4) =========
+{'fields': {'code': '<Area: Commune of Tilemsi>',
+            'kind': 4,
+            'location': None,
+            'name': 'Tilemsi',
+            'parent': 17},
+ 'model': 'simple_locations.area',
+ 'pk': 24}
+{'fields': {'code': '<Area: Commune of Tilemsi>',
+            'kind': 4,
+            'location': None,
+            'name': 'Tilemsi',
+            'parent': 702},
+ 'model': 'simple_locations.area',
+ 'pk': 716}
+======= ('<Area: Commune of Farako>', 4) =========
+{'fields': {'code': '<Area: Commune of Farako>',
+            'kind': 4,
+            'location': None,
+            'name': 'Farako',
+            'parent': 492},
+ 'model': 'simple_locations.area',
+ 'pk': 502}
+{'fields': {'code': '<Area: Commune of Farako>',
+            'kind': 4,
+            'location': None,
+            'name': 'Farako',
+            'parent': 573},
+ 'model': 'simple_locations.area',
+ 'pk': 576}
+======= ('<Area: Commune of Somo>', 4) =========
+{'fields': {'code': '<Area: Commune of Somo>',
+            'kind': 4,
+            'location': None,
+            'name': 'Somo',
+            'parent': 413},
+ 'model': 'simple_locations.area',
+ 'pk': 422}
+{'fields': {'code': '<Area: Commune of Somo>',
+            'kind': 4,
+            'location': None,
+            'name': 'Somo',
+            'parent': 468},
+ 'model': 'simple_locations.area',
+ 'pk': 487}
+======= ('<Area: Commune of Bamba>', 4) =========
+{'fields': {'code': '<Area: Commune of Bamba>',
+            'kind': 4,
+            'location': None,
+            'name': 'Bamba',
+            'parent': 11},
+ 'model': 'simple_locations.area',
+ 'pk': 12}
+{'fields': {'code': '<Area: Commune of Bamba>',
+            'kind': 4,
+            'location': None,
+            'name': 'Bamba',
+            'parent': 361},
+ 'model': 'simple_locations.area',
+ 'pk': 362}
